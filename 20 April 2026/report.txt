@@ -1,0 +1,6 @@
+Student Report
+Rahul - Marks: 85 - Attendance: 88.0% - Grade: B
+Sneha - Marks: 92 - Attendance: 96.0% - Grade: A
+Arjun - Marks: 78 - Attendance: 80.0% - Grade: B
+Priya - Marks: 88 - Attendance: 92.0% - Grade: B
+Karan - Marks: 70 - Attendance: 72.0% - Grade: C
