@@ -1,0 +1,12 @@
+ [
+    {"order_id":1,"customer":"Rahul","product":"Laptop","amount":75000,"city":"Hyderabad"},
+    {"order_id":2,"customer":"Sneha","product":"Mouse","amount":1500,"city":"Bangalore"},
+    {"order_id":3,"customer":"Arjun","product":"Keyboard","amount":3000,"city":"Chennai"},
+    {"order_id":4,"customer":"Priya","product":"Laptop","amount":75000,"city":"Hyderabad"},
+    {"order_id":5,"customer":"Karan","product":"Monitor","amount":12000,"city":"Mumbai"},
+    {"order_id":6,"customer":"Rahul","product":"Mouse","amount":1000,"city":"Hyderabad"},
+    {"order_id":7,"customer":"Sneha","product":"Laptop","amount":75000,"city":"Bangalore"},
+    {"order_id":8,"customer":"Arjun","product":"Keyboard","amount":3000,"city":"Chennai"},
+    {"order_id":9,"customer":"Priya","product":"Mouse","amount":2000,"city":"Hyderabad"},
+    {"order_id":10,"customer":"Rahul","product":"Monitor","amount":12000,"city":"Hyderabad"}
+  ]
