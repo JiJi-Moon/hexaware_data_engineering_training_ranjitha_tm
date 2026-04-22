@@ -1,0 +1,20 @@
+[
+ {
+   "emp_id":1,
+   "name":"Rahul",
+   "address":{"city":"Hyderabad","state":"Telangana"},
+   "skills":["Python","SQL"]
+ },
+ {
+   "emp_id":2,
+   "name":"Sneha",
+   "address":{"city":"Bangalore","state":"Karnataka"},
+   "skills":["HR","Recruitment"]
+ },
+ {
+   "emp_id":3,
+   "name":"Arjun",
+   "address":{"city":"Chennai","state":"Tamil Nadu"},
+   "skills":["PySpark","Azure","Python"]
+ }
+]
