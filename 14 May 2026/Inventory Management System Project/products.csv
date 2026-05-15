@@ -1,0 +1,11 @@
+product_id,product_name,reorder_level
+1,Laptop,10
+2,Mouse,20
+3,Keyboard,15
+4,Monitor,8
+5,Printer,5
+6,Tablet,12
+7,Speaker,18
+8,Router,10
+9,Hard Disk,7
+10,Webcam,9

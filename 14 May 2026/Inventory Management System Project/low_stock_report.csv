@@ -1,0 +1,8 @@
+product_id,current_stock,product_name,reorder_level
+3,12.0,Keyboard,15
+4,-5.0,Monitor,8
+5,4.0,Printer,5
+7,10.0,Speaker,18
+8,7.0,Router,10
+9,6.0,Hard Disk,7
+10,3.0,Webcam,9
