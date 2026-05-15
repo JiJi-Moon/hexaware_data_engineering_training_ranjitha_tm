@@ -1,0 +1,8 @@
+enrollment_id,student_id,course_id,enrollment_date,progress_id,completion_percentage,last_updated,name,email,course_name,instructor
+1,1,1,2026-01-10,1,40.0,2026-02-01,ranjitha,ranjitha@gmail.com,deep learning,dr. kumar
+2,1,2,2026-01-12,2,75.0,2026-02-05,ranjitha,ranjitha@gmail.com,data science,dr. priya
+3,2,3,2026-01-15,3,20.0,2026-02-03,arun,arun@gmail.com,cloud computing,mr. ravi
+4,3,1,2026-01-18,4,90.0,2026-02-10,meena,meena@gmail.com,deep learning,dr. kumar
+5,4,4,2026-01-20,5,0.0,2026-02-12,karthik,karthik@gmail.com,nlp,dr. anitha
+6,5,5,2026-01-22,6,100.0,2026-02-15,divya,divya@gmail.com,big data,mr. suresh
+7,3,2,2026-01-25,7,0.0,2026-02-18,meena,meena@gmail.com,data science,dr. priya
