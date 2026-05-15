@@ -1,0 +1,15 @@
+trigger:
+- daily
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- script: echo "starting inventory pipeline"
+  displayName: "start"
+
+- script: python inventory_report.py
+  displayName: "generate reorder report"
+
+- script: echo "pipeline completed"
+  displayName: "end"
