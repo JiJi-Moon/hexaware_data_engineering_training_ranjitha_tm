@@ -1,0 +1,11 @@
+trigger:
+- weekly
+pool:
+  vmImage: 'ubuntu-latest'
+steps:
+- script: echo "starting pipeline"
+  displayName: "start"
+- script: python report_script.py
+  displayName: "generate report"
+- script: echo "pipeline completed"
+  displayName: "end"
